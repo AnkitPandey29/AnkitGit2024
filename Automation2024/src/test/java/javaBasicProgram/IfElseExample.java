@@ -6,7 +6,7 @@ public class IfElseExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//capagamin interview
 		Scanner s = new Scanner(System.in);
 		System.out.println("Input the Number");
 		int number = s.nextInt();
